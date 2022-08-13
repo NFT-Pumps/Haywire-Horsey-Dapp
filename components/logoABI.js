@@ -1199,7 +1199,7 @@ export default function ContractABI() {
                   "type":"uint8"
                }
             ],
-            "internalType":"struct FarmFolkNFT.WhitelistClaimPass",
+            "internalType":"struct HaywireHorseyNFT.WhitelistClaimPass",
             "name":"whitelistClaimPass",
             "type":"tuple"
          }

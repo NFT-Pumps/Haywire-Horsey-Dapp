@@ -5,12 +5,12 @@ module.exports = {
   analyticsId: '7vsHWbYwcKpA3lFTng2Qe9iNzE7',
   env: {
     siteTitle: "Haywire Horsey NFT Minting Dapp",
-    contractAddress: "0x178A90AB82027dc49Ca07493dF48DBfed9F20D2D",
+    contractAddress: "0xbC55EaCA49BACB4ca2dA80686FEb5608856dE9D1",
     infuraID: "045e9c65387a4200aa8559c347fa19a4",
     defaultGas: 125000,//75000,
     mintType : "Pre-Sale", //Pre-Sale Public
     enforceWhitelist : true,
-    ethValue : "0.06",
+    ethValue : "0.01",
     ethWLValue : "0.00",
     debug: false,
     network: 'mainnet',
@@ -19,15 +19,15 @@ module.exports = {
     pageText : 'Mint and collect the Rootinest, Tootinest NFT ever.',
     //mintType: "Whitelist",
     blockExplorerURL: 'https://.etherscan.io/',
-    www: 'https://FarmFolkNFT.com/',
-    mainWWW: 'https://FarmFolkNFT.com/',
+    www: 'https://www.swiftcreamstudio.com/',
+    mainWWW: 'https://www.swiftcreamstudio.com/',
     title: 'Haywire Horsey NFT',
     links : {
-      opensea : "https://opensea.io/collection/farm-folk-nft",
-      discord : "https://discord.com/invite/hfyRXCuc",
-      twitter : "https://twitter.com/FarmFolkNFT"
+      opensea : "https://opensea.io/collection/haywire-horsey-nft",
+      discord : "",
+      twitter : "https://twitter.com/pinnacleofart"
     },
-    maxMint: 3000,
+    maxMint: 777,
     maxMintCount: 50,
     messagehash: '0x865f293da4a629f00bd8072be6115031c608fa4a13b819fd087811752fc8bb90',
     signatureBytes: '0x4b7715f34823936b045d1e5ca6c295b7f5ecff3d0c158118c71441ed217c3ddb026617ce49dc15781bdb25c8c34ed4a1f4d68df6080f6dd0004511cf05032bf01c',

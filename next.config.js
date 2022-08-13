@@ -16,7 +16,7 @@ module.exports = {
     network: 'mainnet',
     chainId: 1,
     pageHeader : 'Haywire Horsey NFT',
-    pageText : 'Mint and collect the Rootinest, Tootinest NFT ever.',
+    pageText : 'Bringing the physical world to Web3',
     //mintType: "Whitelist",
     blockExplorerURL: 'https://.etherscan.io/',
     www: 'https://www.swiftcreamstudio.com/',
